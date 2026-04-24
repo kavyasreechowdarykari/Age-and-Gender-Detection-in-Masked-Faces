@@ -1,1 +1,3 @@
+Developed a real-time computer vision system to detect face masks and classify age and gender from live video streams using deep learning techniques. Designed and implemented models for face detection and demographic classification, enabling accurate and efficient real-time inference. Built an end-to-end pipeline using Python and OpenCV, integrating video processing, feature extraction, and model prediction. Optimized model performance through evaluation and tuning to improve robustness in real-world scenarios. Project source code and resources are available via GitHub with an external Google Drive link for full access.
+
 https://drive.google.com/drive/folders/1IuaUPhcAQVeMxARCACjBeWKJj0JJL7wP?usp=sharing
